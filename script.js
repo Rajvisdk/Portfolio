@@ -12,11 +12,11 @@ const collections = {
     { type: 'video', title: 'Behind the Scenes', src: 'videos/bts.mp4' }
   ],
   'Image Editing': [
-    { type: 'image', title: 'Hoarding', src: 'images/Hoarding.jpg' },
-    { type: 'image', title: 'Sunboard Standee', src: 'images/Sunboard Standee.jpg' },
-    { type: 'image', title: 'Standee', src: 'images/Standee.jpg' },
-    { type: 'image', title: 'Booth & Canopy', src: 'images/Booth & Canopy.jpg' },
-    { type: 'image', title: 'Newspaper Ad', src: 'images/Newspaper Ad.jpg' }
+    { type: 'image', title: 'Hoarding', src: 'Hoarding.jpg' },
+    { type: 'image', title: 'Sunboard Standee', src: 'Sunboard Standee.png' },
+    { type: 'image', title: 'Standee', src: 'Standee.jpg' },
+    { type: 'image', title: 'Booth & Canopy', src: 'Booth & Canopy.png' },
+    { type: 'image', title: 'Newspaper Ad', src: 'Newspaper Ad.jpg' }
   ],
   'On Ground Creatives': [
     { type: 'image', title: 'Event Identity', src: 'images/event-identity.jpg' },
